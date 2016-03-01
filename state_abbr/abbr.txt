@@ -1,0 +1,58 @@
+                          usps    most_unusual    first_in_order    least    unique_pairs    no_dupes    trivial
+------------------------  ------  --------------  ----------------  -------  --------------  ----------  ---------
+Alabama                   AL      AB              AL                AB       AB              AL          AL
+Alaska                    AK      AK              AS                AK       AK              AA          AL
+American Samoa            AS      AC              AN                AM       AC              AS          AM
+Arizona                   AZ      AZ              AR                AN       AZ              AR          AR
+Arkansas                  AR      AK              AS                AR       AK              AK          AR
+California                CA      CF              CA                CA       CF              CA          CA
+Colorado                  CO      CD              CO                CD       CD              CO          CO
+Connecticut               CT      CU              CT                CE       CE              CN          CO
+Delaware                  DE      DW              DE                DA       DE              DE          DE
+District of Columbia      DC      DF              DO                DB       DB              DO          DI
+Florida                   FL      FD              FL                FA       FA              FL          FL
+Georgia                   GA      GR              GE                GA       GE              GE          GE
+Guam                      GU      GU              GU                GM       GM              GU          GU
+Hawaii                    HI      HW              HA                HA       HA              HA          HA
+Idaho                     ID      ID              ID                IA       IH              ID          ID
+Illinois                  IL      IL              IL                IL       IL              IL          IL
+Indiana                   IN      ID              IN                IN       ID              IN          IN
+Iowa                      IA      IW              IO                IO       IW              IO          IO
+Kansas                    KS      KS              KA                KA       KA              KA          KA
+Kentucky                  KY      KY              KE                KC       KC              KE          KE
+Louisiana                 LA      LU              LO                LA       LA              LO          LO
+Maine                     ME      ME              MA                MA       ME              MA          MA
+Maryland                  MD      MY              MR                MD       MD              MR          MA
+Massachusetts             MA      MU              MS                ME       MC              MS          MA
+Michigan                  MI      MG              MN                MG       MG              MI          MI
+Minnesota                 MN      MT              MS                MI       ME              MN          MI
+Mississippi               MS      MP              MI                MP       MP              MP          MI
+Missouri                  MO      MU              MS                MR       MR              MO          MI
+Montana                   MT      MT              MT                MT       MO              MT          MO
+Nebraska                  NE      NB              NE                NA       NB              NE          NE
+Nevada                    NV      NV              NV                ND       NV              NV          NE
+New Hampshire             NH      NP              NW                NE       NP              NH          NE
+New Jersey                NJ      NJ              NY                NJ       NJ              NJ          NE
+New Mexico                NM      NX              NW                NM       NX              NM          NE
+New York                  NY      NY              NY                NO       NY              NY          NE
+North Carolina            NC      NC              NH                NR       NC              NC          NO
+North Dakota              ND      NK              NK                NT       ND              ND          NO
+Northern Mariana Islands  MP      ND              NM                         NL              NA          NO
+Ohio                      OH      OH              OH                OH       OI              OH          OH
+Oklahoma                  OK      OK              OK                OK       OA              OK          OK
+Oregon                    OR      OG              OR                ON       OE              OR          OR
+Pennsylvania              PA      PY              PE                PA       PA              PE          PE
+Puerto Rico               PR      PU              PR                PC       PC              PR          PU
+Rhode Island              RI      RD              RI                RA       RA              RI          RH
+South Carolina            SC      SU              SC                SA       SC              SC          SO
+South Dakota              SD      SK              SD                SD       SD              SD          SO
+Tennessee                 TN      TE              TE                TE       TN              TE          TE
+Texas                     TX      TX              TX                TS       TA              TX          TE
+Utah                      UT      UH              UT                UA       UA              UT          UT
+Vermont                   VT      VM              VE                VE       VE              VE          VE
+Virgin Islands            VI      VG              VI                VG       VD              VI          VI
+Virginia                  VA      VG              VR                VI       VA              VR          VI
+Washington                WA      WG              WA                WA       WH              WA          WA
+West Virginia             WV      WV              WV                WE       WE              WV          WE
+Wisconsin                 WI      WC              WN                WI       WC              WI          WI
+Wyoming                   WY      WY              WY                WM       WM              WY          WY
