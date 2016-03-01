@@ -62,7 +62,7 @@ def main():
     activities = random_activities(10)
     pprint(activities)
 
-    selected = select_activities(activities)
+    selected = select_activities_greedy(activities)
     pprint(selected)
 
     pprint([activities[i] for i in selected])
