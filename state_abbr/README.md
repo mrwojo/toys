@@ -2,6 +2,8 @@
 
 US states have well-known 2-letter postal abbreviations, such as "CA" for California and "TX" for Texas.
 
+`state_abbr_functions.py` explores some approaches to abbreviating a set of names (esp. with emphasis on state names). See `abbr.txt` for the output of that script.
+
 ## Ordering
 
 Are the postal abbreviations in the same alphabetical order as the state names?
